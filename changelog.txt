@@ -1,0 +1,2 @@
+1.0
+    - First version, containing bootanimation.zip from OnePlus Colette (Custom made by NielsvdS)
